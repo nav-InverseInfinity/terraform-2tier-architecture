@@ -1,4 +1,4 @@
-# terraform-ASG-architecture
+# terraform-two-tier-architecture
 ## Build a two tier architecture with Auto Scaling Group that scale up or down based on the CPU utilisation.
 
 ## For higher Availability, created three public and private subnet on all the AZs in given region. 
